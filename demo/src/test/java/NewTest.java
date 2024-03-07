@@ -12,6 +12,7 @@ public class NewTest {
 
   @AfterMethod
   public void afterMethod() {
+    //ghkkl
   }
 
 }
