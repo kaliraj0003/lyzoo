@@ -90,6 +90,7 @@ public void ToVerifyInputTypesEnterCorrectly() {
 	  d=new ChromeDriver();
 	  d.get("https://www.e2wstudy.lyzooapp.co.in/");
 	  d.manage().window().maximize();
+	  System.out.println("opened");
   }
   
 
